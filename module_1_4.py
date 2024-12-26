@@ -6,7 +6,6 @@
 # print(my_string[0 : 2].upper())
 # print(my_string[ 5 :  : -1])
 # from os import remove
-
 food = ['яблоко' , 'персик' , "банан" , "вишня"]
 # print(food[1])
 food[0] = 'груша'
@@ -21,11 +20,3 @@ food.append("excellent!!!".upper())
 print(food[5])
 my_string = food[5]
 print(my_string[12 : 8 :-1].upper())
-
-
-
-
-
-
-
-
